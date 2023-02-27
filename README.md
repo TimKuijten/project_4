@@ -11,7 +11,7 @@ In this context, we will explore a dataset containing restaurant reviews in vari
 - Reviews in Asian languages are focused on other things than reviews in European languages. 
 
 ### Scraping data 
-To get the dataset we used BeautifulSoup to gather almost 20.000 reviews from about 150 restaurants in Barcelona in 22 languages. With almost all languages (except Arabic) being represnted by over 500 reviews. The information we gathered were the restaurant name, the review, the domain of the website the review was taken from and the rating connected to that review.
+To get the dataset we used BeautifulSoup to gather almost 20.000 reviews from about 150 restaurants in Barcelona in 22 languages. With almost all languages (except Arabic) being represented by over 500 reviews. The information we gathered were the restaurant name, the review, the domain of the website the review was taken from and the rating connected to that review.
 
 ### Cleaning and enriching data
 To make the data more useful, we add a translation of every review. We add the language it was written in, based on the domain of then website where the review came from. And we used MYSQL to join another table we scraped from TripAdvisor which contains more information about the restaurant; the overall rating and the cuisine type. 
