@@ -60,3 +60,12 @@ There is not really a noticable difference; apart from that it seems that review
 
 ![image](https://user-images.githubusercontent.com/121023453/221662653-916df457-2738-4b1d-9fd2-3890b324367d.png)
 
+
+# Conclusion
+- There is not always an equal relation between the compound of a review and the rating. For example, while German reviews have the most negative tone, they definetely do not give the lowest score. 
+
+- When reviews are written in a language that belongs to the cuisine (Japanese - Japanese, French - French), based on our findings, we can conclude that those are biased. 
+
+- Reviews in North-European languages do have a more negative sentinment, compared to the average compound. 
+
+- There is no big difference between wording of reviews written in Asian or European languages 
