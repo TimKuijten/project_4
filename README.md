@@ -8,7 +8,7 @@ In this context, we will explore a dataset containing restaurant reviews in vari
 - The language that leaves the lowest rated reviews, also has the most negative sentiment 
 - When people leave a review of a cuisine from their own country, they are biased (French - French, Japanese - Japanese)
 - Reviews in north-european languages have a more negative tone (Dutch, German, Norwegian, Swedish, Russian)
-- Reviews in Asian languages are focused on other things that reviews in European languages. 
+- Reviews in Asian languages are focused on other things than reviews in European languages. 
 
 ### Scraping data 
 To get the dataset we used BeautifulSoup to gather almost 20.000 reviews from about 150 restaurants in Barcelona in 22 languages. With almost all languages (except Arabic) being represnted by over 500 reviews. The information we gathered were the restaurant name, the review, the domain of the website the review was taken from and the rating connected to that review.
