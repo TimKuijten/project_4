@@ -20,6 +20,7 @@ To make the data more useful, we add a translation of every review. We add the l
 In the graph below we can see on the left the average score given per review for each language, on the right the average compound per review for each language
 
 ![image](https://user-images.githubusercontent.com/121023453/221659517-fd16be9f-2b6e-4f3a-9613-77062d7367f2.png)
+https://public.tableau.com/app/profile/tim.kuijten/viz/Ironhack_16775120772580/Dashboard1
 
 In the graphic we see that there is no direct relation between the rating and the compound of a review.
 We can conclude that reviews in Chinese, Korean and Russian have the most negative sentiment, while they are both average for the actual review score.
@@ -29,22 +30,24 @@ We can only find a corelation between both with Norwegian and Swedish; they scor
 Let's take a closer look at the distrubution of ratings per language 
 
 ![image](https://user-images.githubusercontent.com/121023453/221661561-e8efe6f5-1138-4744-9bfa-7130a145e816.png)
+https://public.tableau.com/app/profile/tim.kuijten/viz/Ironhack2/Sheet42?publish=yes
 
 We see that the rating per language is pretty much distributed in the same way. The only difference we see is that ratings from reviews in Hebrew are a bit higher than the rest.
 
 When we look at the distrubution of the compounds, we see a very different result.
 
 ![image](https://user-images.githubusercontent.com/121023453/221661454-130e7591-46d8-42a0-af3f-378052256b3f.png)
+https://public.tableau.com/app/profile/tim.kuijten/viz/Ironhack3/Sheet4?publish=yes
 
 We can see that german has many outlayers, and again that Hindi is the most positive when it comes to the compound of reviews.
 
 To answer our second hypothesis; When people leave a review of a cuisine from their own country, they are biased we look at the chart below.
 
 ![image](https://user-images.githubusercontent.com/121023453/221667365-728894e8-e054-4e21-a1d3-05ba90bc8046.png)
+https://public.tableau.com/app/profile/tim.kuijten/viz/Ironhack4/Sheet3?publish=yes
 
 When looking at this chart we can conclude that the hypositis is true, reviews are biased when reviewing their 'own' cuisine in the matching language. 
 
-![image](https://user-images.githubusercontent.com/121023453/221661561-e8efe6f5-1138-4744-9bfa-7130a145e816.png)
 
 Let's take a look at the most frequently words used in reviews and see if there is a noticable difference between reviews in European languages vs Asian languages.
 The image on the left is based on reviews lower than 30, the image on the right is reviews between 35 to 50
