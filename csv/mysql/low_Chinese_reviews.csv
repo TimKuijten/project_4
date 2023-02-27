@@ -1,45 +1,6 @@
 level_0,index,Restaurant,Review original,Language,Translated Review,Compound,Rating,Date,Cuisine,Total Rating
-8478,8685,Locavore Barcelona,更多,Chinese,More,0.0,30,November 2021,"['Spanish', 'Contemporary']",5.0
-8515,8722,Don Kilo Gourmet,这一家店的食物同质性太强，拼盘只是披萨馅料堆积而成，没有心意。披萨也烤糊了不少。最重要的是价格太高。,Chinese,"The food of this shop is too strong, and the platter is only accumulated from pizza fillings.Pizza was baked a lot.The most important thing is that the price is too high.",0.659,30,,"['Pizza', 'Southern-Italian']",5.0
-8520,8727,Swagatam Bar-Restaurant Hindu,首先，食物不错。咖喱角很好，它让我们燃起了对主菜的希望。我们点了羊肉印度饭，大蒜印度饼，鸡肉和咖喱羊肉。但是，遗憾的是，没有一道菜能达到好的开胃菜所带来的期待。不过，配菜非常好。员工对所有的客人都很友好，很讨人喜欢。,Chinese,"First of all, the food is good.The curry horn is very good, and it makes us hope for the main cuisine.We ordered lamb Indian rice, garlic Indian cakes, chicken and curry lamb.However, unfortunately, there is no expectation that no dish can achieve good appetizers.However, the side dishes are very good.Employees are very friendly and flattering for all guests.",0.8605,30,Into,"['Indian', 'Asian']",4.5
-8522,8729,Swagatam Bar-Restaurant Hindu,在城里很受欢迎。很拥挤的人群。内部是很普通的。不是很时尚。食物是一般的类型。但萨莫萨三角饺的情况很好。强烈推荐。主人非常谦逊和友好。他和每一个顾客都握手。,Chinese,It is very popular in the city.Very crowded crowd.The interior is very ordinary.Not very fashionable.Food is a general type.But the situation of Samosa triangle dumplings is very good.highly recommended.The owner is very humble and friendly.He shook hands with every customer.,0.3384,30,Into,"['Indian', 'Asian']",4.5
-8560,8767,RAÓ Restaurant,我们和两个男孩一起去吃饭。食物很棒。它就像西班牙小吃但略大。每人需要两道菜。我的屏幕岁月有鸡翅土豆bravas和12岁有烤章鱼和burrata菜。我有西班牙海鲜饭，牛肉菜和我的妻子有一些她不在乎的菜。食物质量很好。我们还有几杯好酒。我们有一个有趣的夜晚探索aww。我们最终在El National享用甜点和饮料。更多,Chinese,"We go to dinner with two boys.The food is great.It is like a Spanish snack but slightly big.Each person needs two dishes.My screen has chicken -winged potato BRAVAS and 12 -year -old barbecue and Burraata dishes.I have Spanish seafood rice, beef dishes, and my wife. Some dishes that she doesn't care about.The quality of food is very good.We have a few glasses of good wine.We have an interesting night to explore AWW.We eventually enjoy desserts and drinks in El National.More",0.8752,30,July 2019,"['Spanish', 'Mediterranean']",5.0
-8574,8781,Taps,餐厅很小，但别具特色，服务生也很年轻。我们就坐在后面，挨着厨房，所以能看到所有食物的制作过程。这家餐厅是为游客服务的，提供Tapas的快餐，点单很快，上菜也很迅速。从进门到就餐结束我们花了不到一个小时，这似乎不是品尝Tapas所用的时间。我们点了猪头肉和虾，都很好吃。里脊肉和胡椒非常好吃，但价格昂贵。我会推荐很多当地人常去，价格没有这里昂贵的餐厅，还可以坐在那里花几个小时就餐，不被催促。,Chinese,"The restaurant is small, but it is unique and the waiter is very young.We just sat behind, next to the kitchen, so we could see the process of making all food.This restaurant serves tourists. It provides Tapas fast food. The order is fast and the food is also very fast.It took less than an hour from the entrance to the end of the meal. This does not seem to have time to taste Tapas.We ordered pork head meat and shrimp, which were delicious.Lidy meat and pepper are very delicious, but the price is expensive.I will recommend a lot of locals to go often. The price is not expensive here. You can also sit there for a few hours to eat without being urged.",0.867,30,Into,"['Mediterranean', 'European']",4.5
-8588,8795,Viana,"西方人因该觉得很好吃
-但我觉的
-他们料理不是合亚洲人胃口吧！
-很普通
-但周边服务人员很亲切
-料理普通到我都不想拍照
-因该是
-很多人跟风现象
-看起来多人写评价
-进来
-吃却是在普通不过的料理！！
-章鱼脚是滚水烫过
-洒了点提味的辣椒粉而已！
-卖相好
-番茄的料理
-也不值得一提",Chinese,"Westerners should feel delicious because it should be delicious
-But I think
-They are not the appetite of Asians!
-very common
-But the surrounding service staff is very kind
-I don't want to take pictures when I cook it
-Because it should be
-Many people follow the trend
-It looks like many people write evaluations
-Come in
-Eating is a common dish!Intersection
-The octopus feet are boiled in water
-Sprinkle a little pepper powder!
-Selling good
-Tomato dishes
-Not worth mentioning",0.9431,30,,"['International', 'Mediterranean']",5.0
 8611,8818,Paisano Bistro,餐厅里友好的工作人员，靠近圣家族大教堂是他们唯一能提供的东西。食物分量很小，也没有什么特别的价格。这个地方很小，而阳台就在一条非常嘈杂的道路上。更多,Chinese,"The friendly staff in the restaurant, near the Holy Family Cathedral is the only thing they can provide.The food weight is small and there is no special price.This place is small, and the balcony is on a very noisy road.More",0.4033,20,,"['Italian', 'Cafe']",5.0
-8612,8819,Paisano Bistro,我在去Sagrada Familia之前，和朋友一起去吃午饭。我吃了烤宽面条，而我的朋友吃煎蛋卷。我们还分享了一盘玉米片和在菜单上列出的巧克力蛋奶酥(提示:它不是巧克力蛋奶酥)。我的烤宽面条很好。大量的番茄酱、奶酪和猪肉。我的朋友点了鸡蛋，他不吃蘑菇，比起我的千层面，我更喜欢他的鸡蛋。玉米片不错。巧克力蛋奶酥变成了一个融化的巧克力熔岩蛋糕，非常甜，我们只能吃几口。尽管如此，我们还是吃了一顿丰盛的午餐。我有7/10的可能将会建议饥饿的人们去Sagrada Familia。,Chinese,"Before I went to Sagrada Familia, I went to lunch with my friends.I ate the grilled noodles, and my friend ate fried egg rolls.We also shared a plate of corn slices and chocolate egg cream crispy on the menu (tip: it is not chocolate egg cream).My grilled wide noodles are very good.A large amount of tomato sauce, cheese and pork.My friend ordered the eggs. He didn't eat mushrooms. I prefer his eggs than my thousand levels.The corn slices are good.Chocolate egg milk crisp into a melted chocolate lava cake, very sweet, we can only eat a few mouthfuls.Nevertheless, we had a rich lunch.I have 7/10 and may recommend hungry people to Sagrada Familia.",0.9531,30,Into,"['Italian', 'Cafe']",5.0
 8614,8821,Paisano Bistro,我们在这里吃了午餐，我怎么也没想到，据业主说这里的餐点是排名第一的，他们是在六个月前买下这家餐厅的。我们点了鳄梨酱和玉米片，据说是自制的，还在商店买了果酱和多力多滋！多力多滋是乳酪的味道，也许是因为它是烤出来的。我们点了三明治，还可以但是并不是很感兴趣。这是我们在巴萨罗那吃过最奇怪的一餐！更多,Chinese,"We had a lunch here. I never expected that according to the owner, the meals here ranked first. They bought this restaurant six months ago.We ordered Hocao sauce and corn slices. It is said to be self -made.Dorito is the taste of cheese, perhaps because it is roasted.We ordered sandwich, but we were not very interested.This is the strangest meal we have eaten in Barcelona!More",0.0,10,Into,"['Italian', 'Cafe']",5.0
-8616,8823,Paisano Bistro,在参观了圣家族大教堂之后停了下来，这家餐厅是一个关于位于萨格拉达西北侧Carrer de Lepant地点的建议。它在谷歌地图上的位置是错误的，在猫途鹰上的位置才是对的（像往常一样）。总而言之，这只是一个非常基本的咖啡馆，没有什么特别的，只能说并没有它排名显示的那样好。 不要点墨西哥夹饼。,Chinese,"After visiting the Holy Family Cathedral, this restaurant was a suggestion on the place where the Carrer de lepant located on the northwest side of Sagrata.Its position on Google Maps is wrong, and the position on the Olthawk is right (as usual).All in all, this is just a very basic cafe. There is nothing special. It can only be said that it is not as good as its ranking.Don't order Mexican cake.",-0.7759,30,Into,"['Italian', 'Cafe']",5.0
 8630,8837,Gusto,"上星期四，我在一场暴风雪中从波士顿飞回家。当我回到巴塞罗那的时候，我告诉丈夫我太累了不能做饭。他建议我们尝试披萨
 将GUSTO放在我们公寓的拐角处。走了，我们去了。当我们到达时，这个地方是空的。我丈夫点了4个奶酪比萨和一瓶矿泉水。
 我点了蘑菇比萨，要一杯自来水。哭泣的人走了！ ！他讽刺地告诉我他们不提供自来水。我告诉他我在巴塞罗那生活了3年，每天用它刷牙，每天喝水，身体健康。他说了Sanish不礼貌，而我的丈夫是西班牙人对他说话。值得称赞的是，服务生道歉了，但是却毁了整个晚餐。我对Mercadon的建议是，以3欧元的价格购买冷冻比萨饼，这样我的质量会更好，品尝会更好。我们的帐单是35欧元，买了2个披萨，1个水和1个沙漠。我的建议是，如果您想让真正的意大利人去希腊。它可能会花费更多，但值得。船Gusto。更多",Chinese,"Last Thursday, I flew home from Boston in a storm.When I returned to Barcelona, I told my husband that I was too tired and couldn't cook.He suggested that we try pizza
@@ -57,35 +18,9 @@ I ordered the mushroom pizza and asked for a cup of water.The crying person is g
 When we entered, we couldn't stand the smell. There were piles of drunk young people around us, the dilapidated white walls, the shabby floor and the dilapidated table football at the entrance.
 
 It may be that the food is good, but the smell is unpleasant.It's hard to imagine that this is a family residence (during the day?).Decided not to leave and try food.",0.3964,20,,"['Bar', 'Mediterranean']",5.0
-10067,10274,La Gastronomica Burgers,"因为网站上的推荐而有非常高的期待，当下午两点访问这里时，我们却是唯二的两组客人，餐点的份量不多，两个人点了约五道菜才饱，花了40多欧。
-味道普普通通谈不上惊艳，鱿鱼跟台湾吃到的没有太大区别，有些过誉了吧，并不值得特意造访。",Chinese,"Because of the recommendation on the website, there are very high expectations. When we visited here at two in the afternoon, we were the only two groups of guests.More than 40 Euros.
-The taste is generally not amazing. Squid is not much different from eating in Taiwan. It is a bit overwhelming. It is not worth visiting.",-0.5773,30,Into,['Street Food'],5.0
-10077,10284,La Gastronomica Burgers,"用酱油煮熟的食物不是坏食物-素食主义者的方法，但肋骨有很多脂肪。部分很小（但服务员在前面解释过）。
-我们的评级价格/质量是5中的3。更多",Chinese,"Cooking foods with soy sauce is not a method for bad food-vegetarians, but ribs have a lot of fat.Part of the small (but the waiter explained earlier).
-Our rating price/quality is 3 of 5.More",0.2323,30,January 2020,['Street Food'],5.0
-10116,10323,Le Romane,好的人，有趣的内饰，但总体而言物有所值-食物还可以，但没什么特别的，在他们的价格范围内，您可以获得更多,Chinese,"Good people, interesting interior, but in general, it is worth it-food is okay, but there is nothing special. Within their price range, you can get more",0.5593,30,December 2019,"['Italian', 'Pizza']",5.0
 10165,10372,Blu Bar,这是利基市场中一家非常繁忙的餐厅，并充分利用了其客户群。非常慢和周到的服务更多,Chinese,"This is a very busy restaurant in the niche market, and makes full use of its customer base.Very slow and thoughtful service more",0.3818,20,January 2020,"['Bar', 'Mediterranean']",5.0
 10166,10373,Blu Bar,由于这里的食物还可以，我们在这里吃了两次饭，但是我们因受到的服务差而被骗了。酒吧广告以固定价格刊登“男士佳肴”，其中包括美食三明治，饮料和咖啡。尽管我们要求服务员提供伙计，然后他又将其重复给我们，所以翻译没有问题，但是我们仍然要为单件商品支付全价。即使我们在周中下午1点进餐时没有多少顾客，服务也非常慢。我不喜欢被骗，所以我们不会回头。更多,Chinese,"Because the food here is okay, we have eaten two meals here, but we were deceived because of poor service.Bar advertisements published ""men's dishes"" at a fixed price, including gourmet sandwiches, drinks and coffee.Although we ask the waiter to provide a gang, and then he repeats it to us, so there is no problem in the translation, but we still have to pay the full price for single -piece goods.Even if we do n’t have many customers when we meals at 1 pm in the morning of the week, the service is very slow.I don't like to be deceived, so we won't look back.More",-0.9713,20,January 2020,"['Bar', 'Mediterranean']",5.0
 10186,10393,Bella Italia,"我们订购了2 x Penne Arabiattas，女服务员给了我们2个Rigatoni pomodorros。当我们带着菜肴来到她面前挑战她时，她突然将菜肴改名为Penne Arabiattas。我把我的菜走回厨房，解释这不是我订购的。它在5分钟后返回，在我返回的同一面食中加入了一些辣椒。工作人员显然试图依靠语言障碍，但意大利菜的名称是相同的。
 我的朋友披萨也来了，我花了2个面食和完成最后一个。这家餐厅没有反映评级。更多",Chinese,"We ordered 2 x Penne Arabiattas, and the female waiter gave us two Rigatoni Pomodorros.When we came to her in front of her to challenge her, she suddenly renamed the dishes to Penne Arabiattas.I walked back to the kitchen and explained that this was not ordered by me.It returned 5 minutes later and added some peppers to the same pasta I returned.The staff obviously tried to rely on language barriers, but the names of Italian cuisine were the same.
 My friend pizza also came, and I spent 2 pasta and completed the last one.This restaurant did not reflect the rating.More",0.6652,20,September 2019,"['Italian', 'Pizza']",5.0
-10208,10415,"We love italy, Pasta & Pizza, Restaurante Barcelona","我们正在寻找一些吃饭的地方，我们在那里停下来，因为我们真的很累。
-当我们看到价格时，我们没有想到任何事情。我们有面食carbonara，我们有点失望。意大利面很热但不是酱！另外，carbonara感觉它就像是从箱子里出来的。
-这款酒真的很棒。更多",Chinese,"We are looking for some places to eat, and we stop there because we are really tired.
-When we saw the price, we didn't expect anything.We have pasta carbonara, and we are a little disappointed.The Italian noodles are hot but not sauce!In addition, Carbonara feels like it comes out of the box.
-This wine is really great.More",0.2133,30,September 2019,"['Italian', 'Pizza']",5.0
-10279,10486,Locavore Barcelona,更多,Chinese,More,0.0,30,November 2021,"['Spanish', 'Contemporary']",5.0
-17154,17497,La Gastronomica Burgers,"因为网站上的推荐而有非常高的期待，当下午两点访问这里时，我们却是唯二的两组客人，餐点的份量不多，两个人点了约五道菜才饱，花了40多欧。
-味道普普通通谈不上惊艳，鱿鱼跟台湾吃到的没有太大区别，有些过誉了吧，并不值得特意造访。",Chinese,"Because of the recommendation on the website, there are very high expectations. When we visited here at two in the afternoon, we were the only two groups of guests.More than 40 Euros.
-The taste is generally not amazing. Squid is not much different from eating in Taiwan. It is a bit overwhelming. It is not worth visiting.",-0.5773,30,,['Street Food'],5.0
-17160,17503,La Gastronomica Burgers,"用酱油煮熟的食物不是坏食物-素食主义者的方法，但肋骨有很多脂肪。部分很小（但服务员在前面解释过）。
-我们的评级价格/质量是5中的3。更多",Chinese,"Cooking foods with soy sauce is not a method for bad food-vegetarians, but ribs have a lot of fat.Part of the small (but the waiter explained earlier).
-Our rating price/quality is 3 of 5.More",0.2323,30,,['Street Food'],5.0
-17182,17525,Le Romane,好的人，有趣的内饰，但总体而言物有所值-食物还可以，但没什么特别的，在他们的价格范围内，您可以获得更多,Chinese,"Good people, interesting interior, but in general, it is worth it-food is okay, but there is nothing special. Within their price range, you can get more",0.5593,30,December 2019,"['Italian', 'Pizza']",5.0
 17213,17556,Blu Bar,由于这里的食物还可以，我们在这里吃了两次饭，但是我们因受到的服务差而被骗了。酒吧广告以固定价格刊登“男士佳肴”，其中包括美食三明治，饮料和咖啡。尽管我们要求服务员提供伙计，然后他又将其重复给我们，所以翻译没有问题，但是我们仍然要为单件商品支付全价。即使我们在周中下午1点进餐时没有多少顾客，服务也非常慢。我不喜欢被骗，所以我们不会回头。更多,Chinese,"Because the food here is okay, we have eaten two meals here, but we were deceived because of poor service.Bar advertisements published ""men's dishes"" at a fixed price, including gourmet sandwiches, drinks and coffee.Although we ask the waiter to provide a gang, and then he repeats it to us, so there is no problem in the translation, but we still have to pay the full price for single -piece goods.Even if we do n’t have many customers when we meals at 1 pm in the morning of the week, the service is very slow.I don't like to be deceived, so we won't look back.More",-0.9713,20,January 2020,"['Bar', 'Mediterranean']",5.0
-17249,17592,"We love italy, Pasta & Pizza, Restaurante Barcelona","我们正在寻找一些吃饭的地方，我们在那里停下来，因为我们真的很累。
-当我们看到价格时，我们没有想到任何事情。我们有面食carbonara，我们有点失望。意大利面很热但不是酱！另外，carbonara感觉它就像是从箱子里出来的。
-这款酒真的很棒。更多",Chinese,"We are looking for some places to eat, and we stop there because we are really tired.
-When we saw the price, we didn't expect anything.We have pasta carbonara, and we are a little disappointed.The Italian noodles are hot but not sauce!In addition, Carbonara feels like it comes out of the box.
-This wine is really great.More",0.2133,30,September 2019,"['Italian', 'Pizza']",5.0
-17320,17663,Locavore Barcelona,更多,Chinese,More,0.0,30,November 2021,"['Spanish', 'Contemporary']",5.0

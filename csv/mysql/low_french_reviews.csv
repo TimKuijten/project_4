@@ -1,19 +1,4 @@
 level_0,index,Restaurant,Review original,Language,Translated Review,Compound,Rating,Date,Cuisine,Total Rating
-762,789,BelleBuon,"Nous avions tellement le goût d’y aller.  Nous nous pris à deux reprises.  Le service est bon et les plats sont corrects… Bien sûr que c’est impressionnant de râper des truffes sur les pâtes, mais faut pas s’attendre à rien de sophistiqué. 
-
-On s’aperçoit que...certains plats sont fortement suggérés par les serveurs et qu’ils s’attendent qu’on libère la table rapidement.
-
-Bref… une expérience décevante pour un numéro 2 à Barcelone!!!☹️Plus",French,"We really liked it to go.We took ourselves twice.The service is good and the dishes are correct ... Of course it is impressive to grate truffles on the pasta, but don't expect anything sophisticated.
-
-We realize that ... some dishes are strongly suggested by the servers and that they expect that we release the table quickly.
-
-In short… a disappointing experience for a number 2 in Barcelona !!! ☹️Plus",-0.4244,30,,"['Italian', 'Neapolitan']",5.0
-782,809,Vrutal,"Burger au poulet exellent avec des frites maison, dommage pour la place car sans réservation il y a aucune place faite attention, pour les dessert le cheesecake oréo a pas vraiment de goût.. dommage étant un grand fan du cheesecake..
-
-Sinon très bon resto dans...l’ensemble.Plus",French,"Burger with chicken exelle with homemade fries, too bad for the place because without reservation there is no place made attention, for dessert the cheesecake oréo has not really taste .. Too bad being a big fan of cheesecake ..
-
-Otherwise very good restaurant in ... the whole.",-0.5729,30,August 2022,"['Bar', 'Healthy']",5.0
-797,824,Le Romane,Plats corrects. Service en terrasse très très moyen. Le serveur a oublié plein de commandes. La terrasse est au bord de la route donc très bruyante… Dommage !,French,Correct dishes.Very very average terrace service.The server forgot lots of orders.The terrace is by the side of the road so very noisy ... Too bad!,-0.7239,30,December 2022,"['Italian', 'Pizza']",5.0
 812,839,La Patsa Lab,"Nous regardons toujours les avis tripadvisor en amont. 
 Super note, supers commentaires. Quelle déception !!
 La nourriture n’est pas mauvaise ni bonne, ça passe. 
@@ -33,21 +18,7 @@ The restaurant is very very noisy.
 Little more for pistachio ice cream which is good but at 6.50 the ball is preferable.
 Seeing the cook working the pasta is also nice with the kitchen open
 If I had read a comment like this I would never have gone.Loss of time and money. Plus",-0.83,20,January 2023,"['Italian', 'Mediterranean']",5.0
-815,842,La Patsa Lab,"Nous nous réjouissions de déguster ces pâtes à la lecture des critiques positives. Grosse déception : entrée pas au niveau / sauce et ingrédients de qualité moyenne dont la viande 
-Environnement moyens et tables abîmées. 
-Nous n’y retournerons pas",French,"We were delighted to taste these pasta when reading positive criticism.Big disappointment: entry not at the level / medium quality sauce and ingredients whose meat
-Average environment and damaged tables.
-We will not return",0.1779,30,January 2023,"['Italian', 'Mediterranean']",5.0
 820,847,La Patsa Lab,Déçus . Déçus par le service et surtout par des assiettes pauvres en quantité et cher pour ce que c'est.  Certes des pâtes fraîches mais pas de quoi s'enflammer,French,Disappointed.Disappointed by the service and especially by poor plates in quantity and dear for what it is.Certainly fresh pasta but not enough to ignite,0.0672,20,November 2022,"['Italian', 'Mediterranean']",5.0
-822,849,Bodega Biarritz 1881 Tapas bar,"Très copieux 
-Bon rapport qualité prix 
-Mais le goût n’y est pas 
-On ne pensait pas à ce genre de tapas.
-Bon moment en famille malgré tout",French,"Very generous
-Good value for money
-But the taste is not there
-We did not think of these kinds of tapas.
-Have a good time with family despite everything",0.8429,30,February 2023,"['Mediterranean', 'Spanish']",5.0
 871,898,Zenith Brunch & Cocktails,Assez déçue par les produits et l’accueil. Les formules et le défilé des commandes paraissent appétissants mais la réalité des plats est tout autre….,French,Quite disappointed with products and reception.The formulas and the command parade appear appetizing but the reality of the dishes is quite different….,-0.2952,20,February 2023,"['Cafe', 'International']",5.0
 872,899,Zenith Brunch & Cocktails,Assez déçu. Les plats sont très appétissants mais le goût n’est vraiment pas au rendez-vous… et le personnel est très peu souriant… nous n’y retournerons pas…,French,Quite disappointed.The dishes are very appetizing but the taste is really not there ... And the staff are very little smiling ... We will not return ...,0.6096,20,February 2023,"['Cafe', 'International']",5.0
 889,916,Bella Italia,"On s'est fiés à tort à ces nombreux avis positifs et aux photos alléchantes. Il faut savoir que le midi vous n'avez pas la possibilité de commander ce qu'il y a sur la carte. Le menu est restreint et ressemble à un menu de cantoche....Nous avons pris les rigatonis à la bolognaise. On a joué à chercher la viande dans une botte de pâtes. On a longtemps cherché, en vain. Les 2 pizzas été immangeables tant l'acidité de la sauce tomate était présente. Et ce n'est pas les 3 morceaux de viande sur la diavola qui auraient pu atténuer ça. Quant à leur pâte sèche, archi sèche et dure.. Nos assiettes à la fin du repas ont parlé d'elles-mêmes mais aucun geste commercial n'a été fait. Certes, on nous a proposé de refaire les plats. Nous avons décliné.Plus",French,"We have wrongly trusted these many positive opinions and enticing photos.You should know that at noon you do not have the possibility of ordering what is on the map.The menu is restricted and looks like a cantoche menu .... We took the Bolognese Rigatonis.We played to look for the meat in a bunch of pasta.We have long looked for, in vain.The 2 inedible summer pizzas as the acidity of the tomato sauce was present.And it was not the 3 pieces of meat on the Diavola that could have attenuated this.As for their dry, dry and hard dough. Our plates at the end of the meal talked about themselves but no commercial gesture was made.Admittedly, we were offered to redo the dishes.We have declined.",0.25,10,July 2022,"['Italian', 'Pizza']",5.0
@@ -75,134 +46,31 @@ La salade de fruits était issue de boite ... très décevant !!
 C'est l'usine, personnel peu accueillant",French,"Very disappointed with pizza.Know that at noon, you don't have the card available, there are only 3 choices of Primo, Secondo and Pizza.
 The fruit salad came from a box ... very disappointing !!
 It's the factory, an unwelcoming staff",-0.8161,10,mars 2022,"['Italian', 'Pizza']",5.0
-903,930,"We love italy, Pasta & Pizza, Restaurante Barcelona",Nous avons essayé plusieurs italiens sur la ville.  Personnellement je trouve que pour être dans les élites de la ville  il faut un peu plus .Nous avons préféré pizza dans nanni,French,We tried several Italians on the city.Personally I find that to be in the city's elites you need a little more. We preferred pizza in nanni,0.0,30,January 2023,"['Italian', 'Pizza']",5.0
-922,949,9 Nine,"Dîner très correct  gâche par un vol de carte bleue et téléphone En terrasse extérieure 
-Le responsable confus  , nous a offert le repas....Plus",French,"Very correct dinner spoiled by a flight of blue card and telephone on the outdoor terrace
-The confused manager offered us the meal .... more",-0.3182,30,June 2022,"['Steakhouse', 'International']",4.5
-973,1000,Dal Presidente Bar,Accueil sympathique et familial!!bon rapport qualité prix pizzas faites à côté de vous !!! Sincèrement je vous conseil ce lieu,French,Friendly and family welcome !! good value for money pizza made next to you !!!Sincerely I advise you this place,0.941,30,February 2022,"['Italian', 'Pizza']",5.0
 1056,1083,Jara Sushi Degustación,"Nous nous sommes présentés devant le restaurant aux heures d’ouverture. La porte coulissante (vérouillée ??) ne s’est pas ouverte. Le personnel (et les clients assis à la table juste à l’entrée) nous a regardé de l’intérieur sans réellement se préoccuper de nous. Même si, pour...une raison ou une autre, il n’était pas possible de nous recevoir, nous aurions apprécié que quelqu’un se déplace pour nous informer. Du coup, la cuisine, impossible de donner un avis mais, à bien y réfléchir, au vu de l’attitude, nous ne regrettons pas d’y avoir investi le moindre euro !Plus",French,"We presented ourselves in front of the restaurant during opening hours.The sliding door (veroused ??) has not opened.The staff (and customers sitting at the table just at the entrance) looked at us from the inside without really worrying about us.Even if, for ... one reason or another, it was not possible to receive us, we would have appreciated that someone moves to inform us.Suddenly, cooking, impossible to give an opinion but, to think well, in view of the attitude, we do not regret having invested the slightest euro! More",0.8433,10,August 2022,"['Japanese', 'Sushi']",5.0
-1057,1084,Jara Sushi Degustación,"Je vais sembler trouble fête au regard des avis élogieux qui me précèdent mais pour nous l’expérience a été mitigée. Si le travail de présentation et d’élaboration des sushis est remarquable, la saveur elle n’était pas au rdv, le saumon n’était pas fondant et manquait...de fraîcheur. Franchement déçus vu le montant de la commande et les petites quantités servies… Je précise que nous avons été livrés via UBER, peut être est il préférable de manger sur place.Plus",French,"I’m going to seem to be a disturbance of the glowing opinions that precede me but for us the experience has been mixed.If the work of presentation and elaboration of sushi is remarkable, the flavor it was not by the appointment, the salmon was not melting and lacked ... of freshness.Frankly disappointed given the amount of the order and the small quantities served ... I specify that we were delivered via Uber, maybe it is preferable to eat on site.",-0.0129,30,August 2022,"['Japanese', 'Sushi']",5.0
 1075,1102,Babula Bar 1937,"Ce n’est pas du tout un restaurant végétarien comme indiqué je m’explique :
 quasi tous les plats au poisson sont accompagnés de viande ou sont cuisinés/marinés avec de l’alcool 
 Même si l’option d’enlever la viande du plat est possible cela deviendrait un plat non complet...Plus",French,"It is not at all a vegetarian restaurant as indicated I explain myself:
 Almost all fish dishes are accompanied by meat or are cooked/marinated with alcohol
 Even if the option of removing the meat from the dish is possible it would become a non -complete dish ... More",0.0,20,July 2022,"['Mediterranean', 'European']",5.0
-4211,4324,Dal Presidente Bar,Accueil sympathique et familial!!bon rapport qualité prix pizzas faites à côté de vous !!! Sincèrement je vous conseil ce lieu,French,Friendly and family welcome !! good value for money pizza made next to you !!!Sincerely I advise you this place,0.941,30,February 2022,"['Italian', 'Pizza']",5.0
 4301,4414,Jara Sushi Degustación,"Nous nous sommes présentés devant le restaurant aux heures d’ouverture. La porte coulissante (vérouillée ??) ne s’est pas ouverte. Le personnel (et les clients assis à la table juste à l’entrée) nous a regardé de l’intérieur sans réellement se préoccuper de nous. Même si, pour...une raison ou une autre, il n’était pas possible de nous recevoir, nous aurions apprécié que quelqu’un se déplace pour nous informer. Du coup, la cuisine, impossible de donner un avis mais, à bien y réfléchir, au vu de l’attitude, nous ne regrettons pas d’y avoir investi le moindre euro !Plus",French,"We presented ourselves in front of the restaurant during opening hours.The sliding door (veroused ??) has not opened.The staff (and customers sitting at the table just at the entrance) looked at us from the inside without really worrying about us.Even if, for ... one reason or another, it was not possible to receive us, we would have appreciated that someone moves to inform us.Suddenly, cooking, impossible to give an opinion but, to think well, in view of the attitude, we do not regret having invested the slightest euro! More",0.8433,10,August 2022,"['Japanese', 'Sushi']",5.0
-4302,4415,Jara Sushi Degustación,"Je vais sembler trouble fête au regard des avis élogieux qui me précèdent mais pour nous l’expérience a été mitigée. Si le travail de présentation et d’élaboration des sushis est remarquable, la saveur elle n’était pas au rdv, le saumon n’était pas fondant et manquait...de fraîcheur. Franchement déçus vu le montant de la commande et les petites quantités servies… Je précise que nous avons été livrés via UBER, peut être est il préférable de manger sur place.Plus",French,"I’m going to seem to be a disturbance of the glowing opinions that precede me but for us the experience has been mixed.If the work of presentation and elaboration of sushi is remarkable, the flavor it was not by the appointment, the salmon was not melting and lacked ... of freshness.Frankly disappointed given the amount of the order and the small quantities served ... I specify that we were delivered via Uber, maybe it is preferable to eat on site.",-0.0129,30,August 2022,"['Japanese', 'Sushi']",5.0
-4315,4428,Babula Bar 1937,"Un endroit sympa , service accueillant mais nourriture sans saveurs… c’est dommage parce que l’établissement se prête à avoir une cuisine plus élaborée",French,"A nice place, welcoming service but food without flavors ... It's a shame because the establishment lends itself to having a more elaborate kitchen",-0.3182,30,September 2022,"['Mediterranean', 'European']",5.0
 4323,4436,Babula Bar 1937,"Ce n’est pas du tout un restaurant végétarien comme indiqué je m’explique :
 quasi tous les plats au poisson sont accompagnés de viande ou sont cuisinés/marinés avec de l’alcool 
 Même si l’option d’enlever la viande du plat est possible cela deviendrait un plat non complet...Plus",French,"It is not at all a vegetarian restaurant as indicated I explain myself:
 Almost all fish dishes are accompanied by meat or are cooked/marinated with alcohol
 Even if the option of removing the meat from the dish is possible it would become a non -complete dish ... More",0.0,20,July 2022,"['Mediterranean', 'European']",5.0
-4352,4465,Bodega Oliva,"Le cadre est sympa mais Très à l’étroit pour manger. Pas agréable. Cependant les tapas étaient très bon. 
-Ça reste un Lieu typique avec un repas typique.
-Attendez vous a faire la queue si vous voulez y aller absolument.",French,"The setting is nice but very cramped for eating.Not pleasant.However the tapas were very good.
-It remains a typical place with a typical meal.
-Wait in line if you want to go absolutely.",0.7677,30,October 2022,['Catalan'],5.0
 4360,4473,Don Kilo Gourmet,"Du Gourmet il y a seulement le mot. On pensait aller á un restaurant Italien fin et Gourmet. Il n'en est rien. C'est une pizzería basique avec des produits très médiocres. Nous n'avons pas aimé du tout. Malgré la sympathie fort agréable du personnel. Nous...n'avons pas apprécié du tout notre soirée. 
 Un endroit petit qui pourrait etre franchement beaucoup mieux. Je ne le conseille pas.Plus",French,"Gourmet there is only the word.We thought we were going to a fine and gourmet Italian restaurant.It is not so.It is a basic pizzería with very mediocre products.We didn't like it at all.Despite the very pleasant sympathy of the staff.We ... did not appreciate our evening at all.
 A small place that could be frankly much better.I do not recommend it.",0.4006,10,November 2021,"['Pizza', 'Southern-Italian']",5.0
 4380,4493,Swagatam Bar-Restaurant Hindu,"D'après la note générale, je m'attendais à mieux. Décoration inexistante, cuisine très moyenne, service lent, et nous n'étions que deux dans le restaurant. Sans aucun doute le moins bon restaurant indien dans lequel j'ai été.",French,"According to the general note, I expected better.Nonexistent decoration, very average kitchen, slow service, and there were only two of us in the restaurant.Without a doubt the less good Indian restaurant in which I have been.",0.0276,20,mars 2017,"['Indian', 'Asian']",4.5
 4384,4497,La Terraza De Anna By Vida Mona,"Alors par rapport à tous les avis ci dessous nous avons été très déçus , très beau cadre mais nous avons attendu plus de 45 min pour avoir nos 2 cocktails alors que le restaurant n’était qu’à moitié plein sans parler des premiers tapas qui...sont arrivés après 1h d’attente et rien d’exceptionnel. Pas de goût particulier puis au bout d’1h30 les deuxièmes tapas …sinon dans cette attente le poulpe était pas mal mais 1h30 d’attente pour un morceau de poulpe…. Peut être qu’ils sont allés le pêcher directement !!!! Nous n’y retournerons pas dommage pour le cadrePlus",French,"So compared to all the opinions below we were very disappointed, very beautiful setting but we waited more than 45 min to have our 2 cocktails when the restaurant was only half full without speaking of the first tapas which... have arrived after 1 hour of waiting and nothing exceptional.No particular taste then after 1:30 am the second tapas ... otherwise in this wait the octopus was not bad but 1:30 am for a piece of octopus….Maybe they went fishing directly !!!!We will not return to it for the frameplus",0.7561,20,,"['Mediterranean', 'Spanish']",5.0
-4392,4505,La Cala Barceloneta,Pour prendre  un verre au soleil pour quoi pas . Cela est largement exagéré le fait que ce dernier fasse partie des meilleurs résultats sur TripAdvisor lors de nos recherches des meilleurs restaurants proche de soit,French,To have a drink in the sun for what not.This is widely exaggerated the fact that the latter is one of the best results on TripAdvisor during our research of the best restaurants close to either,0.8402,30,January 2022,"['Cafe', 'Mediterranean']",5.0
-4393,4506,La Cala Barceloneta,"C’est sympa quand il fait très beau et qu’on peut manger dehors, car à l’intérieur il n’y a pas de table juste un coin devant la fenêtre pour prendre tout juste un café. La terrasse est calme et les prix corrects. Les serveurs ne font...pas trop attention à la clientèle, c’est le point négatif ils sont (trop?)à la cool quoi,  la serveuse m’a un peu oublié j’ai dû réclamer mon toast il est arrivé 20 mn après.Plus",French,"It's nice when the weather is very nice and that you can eat outside, because inside there is no table just a corner in front of the window to just have a coffee.The terrace is quiet and the prices are correct.The servers do not ... not pay too much attention to the customers, this is the negative point they are (too?) To the cool what, the waitress forgot me a little I had to claim my toast it happened 20mn after.",0.1977,30,avril 2019,"['Cafe', 'Mediterranean']",5.0
-4410,4523,Taps,"Plutôt bon, beaucoup de choix, staff sympa, ambiance superbe, belle déco.
-Ne pas prendre la sangria qui à un goût d'ice tea",French,"Rather good, a lot of choices, nice staff, superb atmosphere, beautiful decor.
-Do not take the Sangria which to a taste of Ice Tea",0.9287,30,,"['Mediterranean', 'European']",4.5
-4416,4529,Viana,"Comme toujours à l’étranger, on se réfère systématiquement à Tripadvisor pour choisir un restaurant 
-En visite sur Barcelone, on recherche un restaurant à Tapas qualitatifs 
-Et VIANA apparaît dans les meilleurs !
-Alors, oui, l’accueil est très sympa 
-Le restaurant est un couloir (comme souvent...ici !) et le personnel attentif et prévenant 
-Côté cuisine, rien d’exceptionnel pour celui qui connaît ! C’est gourmand mais les produits ne sont pas de super qualité (jambon ibérique très classique notamment)
-À noter: les vins au verre sont correctes (entre 4 et 7€) 
-On s’attendait à beaucoup mieux !Plus",French,"As always abroad, we systematically refer to Tripadvisor to choose a restaurant
-Visiting Barcelona, we are looking for a restaurant with qualitative tapas
-And Viana appears in the best!
-So, yes, the welcome is very nice
-The restaurant is a corridor (as often ... here!) And attentive and considerate staff
-On the kitchen side, nothing exceptional for the one who knows!It's greedy but the products are not super quality (very classic Iberian ham)
-Note: the wines by the glass are correct (between 4 and 7 €)
-We expected much better! More",0.8349,30,February 2023,"['International', 'Mediterranean']",5.0
-4458,4571,Gusto,"Pizzeria oú les prix sont particulièrement élevés. Certaines pizzas peuvent aller chercher les 16 ou 17 euros,  c'est un peu exagéré même si elles sont bonnes et cuites au feu de bois. 
-Service de qualité.",French,"Pizzeria where prices are particularly high.Some pizzas can get the 16 or 17 euros, it's a bit exaggerated even if they are good and cooked on wood fire.
-Quality service.",0.0258,30,December 2019,"['Italian', 'Pizza']",4.5
-4500,4613,Bar Xapako,"Au vu des commentaires qui donnaient ce restaurant typique et aux tapas exquis nous nous sommes arrêtés en famille..
-Une portion de croquettes une omelette et des padrons:  sans plus. 
-Taps simples mais pas exquis. L addition reste raisonnable. 23 euros avec bière kas et...Plus",French,"In view of the comments that gave this typical and exquisite tapas restaurant we stopped with the family.
-A portion of kibble a omelet and padrons: nothing more.
-Simple but not exquisite taps.The addition remains reasonable.23 euros with kas beer and ... more",-0.1154,30,July 2022,"['Bar', 'Mediterranean']",5.0
-4512,4625,Diegos Bar Restaurant,"mon plat était beaucoup trop salé.  Pas mangeable. dommage. Les autres étaient très bons.
-accueil très agréable. 
-cadre  plaisant.",French,"My dish was far too salty.Not eating.Shame.The others were very good.
-Very pleasant welcome.
-pleasant setting.",0.9347,30,,"['Mediterranean', 'Spanish']",5.0
 4531,4644,Bella Venezia,"pizzas bonnes mais sans plus
 ajout de 10% sur la note soi disant pour le fait qu on ait mange en terrasse alors que sur la carte ça n etait pas écrit et que le serveur ne nous a pas prévenu
 a fuir",French,"good pizzas but nothing more
 Adding 10% on the note that is said to have eaten on the terrace when on the card it was not written and the server did not warn us
 to flee",0.3387,20,November 2022,['Italian'],5.0
-4536,4649,Bella Venezia,"Cadre basique, on se dit que ça va être génial quand on voit le pizzaïolo faire tourner sa pâte et puis non. Service long, des pâtes sauce pesto mais avec de la crème, depuis quand met-on de la crème dans une sauce pesto. Les pizzas...sont correctes par contre. Les assiettes de pâtes ne sont pas très garnies, c'est dommage. Je ne vous conseille pas le tiramisu, qui n'en a que le nom.Plus",French,"Basic setting, we say that it will be great when you see the pizzaiolo spining your dough and then no.Long service, pesto sauce pasta but with cream, since when we put cream in a pesto sauce.The pizzas ... are correct on the other hand.The pasta plates are not very garnished, it's a shame.I do not recommend the tiramisu, which has only the name.",-0.0297,30,avril 2022,['Italian'],5.0
-13924,14190,Dal Presidente Bar,Accueil sympathique et familial!!bon rapport qualité prix pizzas faites à côté de vous !!! Sincèrement je vous conseil ce lieu,French,Friendly and family welcome !! good value for money pizza made next to you !!!Sincerely I advise you this place,0.941,30,February 2022,"['Italian', 'Pizza']",5.0
 13990,14256,Jara Sushi Degustación,"Nous nous sommes présentés devant le restaurant aux heures d’ouverture. La porte coulissante (vérouillée ??) ne s’est pas ouverte. Le personnel (et les clients assis à la table juste à l’entrée) nous a regardé de l’intérieur sans réellement se préoccuper de nous. Même si, pour...une raison ou une autre, il n’était pas possible de nous recevoir, nous aurions apprécié que quelqu’un se déplace pour nous informer. Du coup, la cuisine, impossible de donner un avis mais, à bien y réfléchir, au vu de l’attitude, nous ne regrettons pas d’y avoir investi le moindre euro !Plus",French,"We presented ourselves in front of the restaurant during opening hours.The sliding door (veroused ??) has not opened.The staff (and customers sitting at the table just at the entrance) looked at us from the inside without really worrying about us.Even if, for ... one reason or another, it was not possible to receive us, we would have appreciated that someone moves to inform us.Suddenly, cooking, impossible to give an opinion but, to think well, in view of the attitude, we do not regret having invested the slightest euro! More",0.8433,10,,"['Japanese', 'Sushi']",5.0
 14032,14298,Swagatam Bar-Restaurant Hindu,"D'après la note générale, je m'attendais à mieux. Décoration inexistante, cuisine très moyenne, service lent, et nous n'étions que deux dans le restaurant. Sans aucun doute le moins bon restaurant indien dans lequel j'ai été.",French,"According to the general note, I expected better.Nonexistent decoration, very average kitchen, slow service, and there were only two of us in the restaurant.Without a doubt the less good Indian restaurant in which I have been.",0.0276,20,,"['Indian', 'Asian']",4.5
-14033,14299,Swagatam Bar-Restaurant Hindu,"La salle devait précédemment être un bar, et l'effort de redécoration a dû être minimal, s'il y en a eu un.
-
-L'accueil est correct, et le service un peu lent.
-
-Les plats sont très moyens, pas de légumes, viande un peu trop cuite, sauce manquant...Plus",French,"The room had previously been a bar, and the redecoration effort had to be minimal, if there was one.
-
-The reception is correct, and the service a little slow.
-
-The dishes are very average, no vegetables, a little too cooked meat, missing sauce ... More",-0.5688,30,,"['Indian', 'Asian']",4.5
 14041,14307,La Terraza De Anna By Vida Mona,"Alors par rapport à tous les avis ci dessous nous avons été très déçus , très beau cadre mais nous avons attendu plus de 45 min pour avoir nos 2 cocktails alors que le restaurant n’était qu’à moitié plein sans parler des premiers tapas qui...sont arrivés après 1h d’attente et rien d’exceptionnel. Pas de goût particulier puis au bout d’1h30 les deuxièmes tapas …sinon dans cette attente le poulpe était pas mal mais 1h30 d’attente pour un morceau de poulpe…. Peut être qu’ils sont allés le pêcher directement !!!! Nous n’y retournerons pas dommage pour le cadrePlus",French,"So compared to all the opinions below we were very disappointed, very beautiful setting but we waited more than 45 min to have our 2 cocktails when the restaurant was only half full without speaking of the first tapas which... have arrived after 1 hour of waiting and nothing exceptional.No particular taste then after 1:30 am the second tapas ... otherwise in this wait the octopus was not bad but 1:30 am for a piece of octopus….Maybe they went fishing directly !!!!We will not return to it for the frameplus",0.7561,20,,"['Mediterranean', 'Spanish']",5.0
-14051,14317,La Cala Barceloneta,Pour prendre  un verre au soleil pour quoi pas . Cela est largement exagéré le fait que ce dernier fasse partie des meilleurs résultats sur TripAdvisor lors de nos recherches des meilleurs restaurants proche de soit,French,To have a drink in the sun for what not.This is widely exaggerated the fact that the latter is one of the best results on TripAdvisor during our research of the best restaurants close to either,0.8402,30,,"['Cafe', 'Mediterranean']",5.0
-14052,14318,La Cala Barceloneta,"C’est sympa quand il fait très beau et qu’on peut manger dehors, car à l’intérieur il n’y a pas de table juste un coin devant la fenêtre pour prendre tout juste un café. La terrasse est calme et les prix corrects. Les serveurs ne font...pas trop attention à la clientèle, c’est le point négatif ils sont (trop?)à la cool quoi,  la serveuse m’a un peu oublié j’ai dû réclamer mon toast il est arrivé 20 mn après.Plus",French,"It's nice when the weather is very nice and that you can eat outside, because inside there is no table just a corner in front of the window to just have a coffee.The terrace is quiet and the prices are correct.The servers do not ... not pay too much attention to the customers, this is the negative point they are (too?) To the cool what, the waitress forgot me a little I had to claim my toast it happened 20mn after.",0.1977,30,,"['Cafe', 'Mediterranean']",5.0
-14081,14347,Taps,"Plutôt bon, beaucoup de choix, staff sympa, ambiance superbe, belle déco.
-Ne pas prendre la sangria qui à un goût d'ice tea",French,"Rather good, a lot of choices, nice staff, superb atmosphere, beautiful decor.
-Do not take the Sangria which to a taste of Ice Tea",0.9287,30,July 2022,"['Mediterranean', 'European']",4.5
-14094,14360,Viana,"Comme toujours à l’étranger, on se réfère systématiquement à Tripadvisor pour choisir un restaurant 
-En visite sur Barcelone, on recherche un restaurant à Tapas qualitatifs 
-Et VIANA apparaît dans les meilleurs !
-Alors, oui, l’accueil est très sympa 
-Le restaurant est un couloir (comme souvent...ici !) et le personnel attentif et prévenant 
-Côté cuisine, rien d’exceptionnel pour celui qui connaît ! C’est gourmand mais les produits ne sont pas de super qualité (jambon ibérique très classique notamment)
-À noter: les vins au verre sont correctes (entre 4 et 7€) 
-On s’attendait à beaucoup mieux !Plus",French,"As always abroad, we systematically refer to Tripadvisor to choose a restaurant
-Visiting Barcelona, we are looking for a restaurant with qualitative tapas
-And Viana appears in the best!
-So, yes, the welcome is very nice
-The restaurant is a corridor (as often ... here!) And attentive and considerate staff
-On the kitchen side, nothing exceptional for the one who knows!It's greedy but the products are not super quality (very classic Iberian ham)
-Note: the wines by the glass are correct (between 4 and 7 €)
-We expected much better! More",0.8349,30,,"['International', 'Mediterranean']",5.0
-14107,14373,Viana,"Nous avions un très bon souvenir du Viana et nous avons été déçus 
-Si certains plats étaient excellents (croquettes de poulpe) d’autres étaient mal exécutés ( joues de bœuf)
-De plus le service a été folklorique avec des entrées arrivant au compte goutte et une...Plus",French,"We had a very good memory of the Viana and we were disappointed
-If some dishes were excellent (octopus kibble) others were poorly executed (beef cheeks)
-In addition, the service was folk with entries arriving at drop and a ... more",0.4005,30,,"['International', 'Mediterranean']",5.0
-14161,14427,Gusto,"Pizzeria oú les prix sont particulièrement élevés. Certaines pizzas peuvent aller chercher les 16 ou 17 euros,  c'est un peu exagéré même si elles sont bonnes et cuites au feu de bois. 
-Service de qualité.",French,"Pizzeria where prices are particularly high.Some pizzas can get the 16 or 17 euros, it's a bit exaggerated even if they are good and cooked on wood fire.
-Quality service.",0.0258,30,,"['Italian', 'Pizza']",4.5
-14163,14429,Gusto,"Nous avons découvert ce restaurant en juin 2018 lors de notre venue à Barcelone 
-Nous avons eu la chance de pouvoir y retourner en mai 2019 et la quelle déception ! Accueil froid, expéditif... peut être victime de leurs succès ??! 
-Quel dommage 
-Les pizzas...Plus",French,"We discovered this restaurant in June 2018 when we came to Barcelona
-We were lucky to be able to return there in May 2019 and what disappointment!Cold, expeditious welcome ... maybe their successes ??!
-What a pity
-Pizzas ... More",0.846,30,,"['Italian', 'Pizza']",4.5
-14205,14471,Bar Xapako,"Au vu des commentaires qui donnaient ce restaurant typique et aux tapas exquis nous nous sommes arrêtés en famille..
-Une portion de croquettes une omelette et des padrons:  sans plus. 
-Taps simples mais pas exquis. L addition reste raisonnable. 23 euros avec bière kas et...Plus",French,"In view of the comments that gave this typical and exquisite tapas restaurant we stopped with the family.
-A portion of kibble a omelet and padrons: nothing more.
-Simple but not exquisite taps.The addition remains reasonable.23 euros with kas beer and ... more",-0.1154,30,July 2022,"['Bar', 'Mediterranean']",5.0
-14217,14483,Diegos Bar Restaurant,"mon plat était beaucoup trop salé.  Pas mangeable. dommage. Les autres étaient très bons.
-accueil très agréable. 
-cadre  plaisant.",French,"My dish was far too salty.Not eating.Shame.The others were very good.
-Very pleasant welcome.
-pleasant setting.",0.9347,30,,"['Mediterranean', 'Spanish']",5.0
 14236,14502,Bella Venezia,"pizzas bonnes mais sans plus
 ajout de 10% sur la note soi disant pour le fait qu on ait mange en terrasse alors que sur la carte ça n etait pas écrit et que le serveur ne nous a pas prévenu
 a fuir",French,"good pizzas but nothing more
