@@ -58,7 +58,6 @@ The image on the left is based on reviews lower than 30, the image on the right 
 
 There is not really a noticable difference; apart from that it seems that reviews in Asian languages don't have much good to say about pizza.
 
-![image](https://user-images.githubusercontent.com/121023453/221662653-916df457-2738-4b1d-9fd2-3890b324367d.png)
 
 
 # Conclusion
